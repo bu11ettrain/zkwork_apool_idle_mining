@@ -1,16 +1,17 @@
 
-# **ALEO** + **QUBIC** Idle Mining on **ZK.Work** + **apool.io**
+# ALEO + QUBIC Idle Mining on ZK.Work + apool.io
 
-#### **HiveOS:** 
+#### HiveOS:
 
 1. Add **QUBIC** wallet in HiveOS
-<img src="doc/img/hiveos_wal_example.png" style="width:500px;"/>
+<img src="img/hiveos_wal_example.png" style="width:500px;"/>
 
 2. Add and setup new Flight sheet
-<img src="doc/img/hiveos_fs_example.png" style="width:500px;"/>
+<img src="img/hiveos_fs_example_1.png" style="width:800px;"/>
+<img src="img/hiveos_fs_example_2.png" style="width:500px;"/>
 
 * Miner name: `zkwork_apool_idle_mining`
-* Installation URL: ``
+* Installation URL: `https://github.com/bu11ettrain/zkwork_apool_idle_mining/releases/download/v1.0/zkwork_apool_idle_mining-v1.0_hiveos.tar.gz`
 * Wallet and worker template:`%WAL`
 * Pool URL：`qubic2.hk.apool.io:3334`
 * Extra Config Arguments: `--worker %WORKER_NAME% --cpu-off`
