@@ -11,7 +11,7 @@
 <img src="img/hiveos_fs_example_2.png" style="width:500px;"/>
 
 * Miner name: `zkwork_apool_idle_mining`
-* Installation URL: `https://github.com/bu11ettrain/zkwork_apool_idle_mining/releases/download/v1.0/zkwork_apool_idle_mining-v1.0_hiveos.tar.gz`
+* Installation URL: `https://github.com/bu11ettrain/zkwork_apool_idle_mining/releases/download/v1.01/zkwork_apool_idle_mining-v1.01_hiveos.tar.gz`
 * Wallet and worker template:`%WAL`
 * Pool URL：`qubic2.hk.apool.io:3334`
 * Extra Config Arguments: `--worker %WORKER_NAME% --cpu-off`
@@ -21,8 +21,8 @@ Don't forget to replace `aleoxxx` with your **ALEO** wallet address.
 
 ### Linux:
 1. Download and unpack the latest build for Linux from [Releases](https://github.com/bu11ettrain/zkwork_apool_idle_mining/releases): \
-   `wget https://github.com/bu11ettrain/zkwork_apool_idle_mining/releases/download/v1.0/zkwork_apool_idle_mining-v1.0_linux.tar.gz` \
-   `tar -xzvf zkwork_apool_idle_mining-v1.0_linux.tar.gz`
+   `wget https://github.com/bu11ettrain/zkwork_apool_idle_mining/releases/download/v1.01/zkwork_apool_idle_mining-v1.01_linux.tar.gz` \
+   `tar -xzvf zkwork_apool_idle_mining-v1.01_linux.tar.gz`
 2. Modify config file miner.conf: \
    For example: 
    >algo=qubic \
