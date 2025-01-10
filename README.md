@@ -22,7 +22,7 @@ Don't forget to replace `aleoxxx` with your **ALEO** wallet address.
 ### Linux:
 1. Download and unpack the latest build for Linux from [Releases](https://github.com/bu11ettrain/zkwork_apool_idle_mining/releases): \
    `wget https://github.com/bu11ettrain/zkwork_apool_idle_mining/releases/download/v1.05/zkwork_apool_idle_mining-v1.05_linux.tar.gz` \
-   `tar -xzvf zkwork_apool_idle_mining-v1.04_linux.tar.gz`
+   `tar -xzvf zkwork_apool_idle_mining-v1.05_linux.tar.gz`
 2. Modify config file miner.conf: \
    For example: 
    >algo=qubic \
